@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+}
+
+header{
+    background-color: #946897;
+}
+
+img {
+    height: 120px;
+}
+
+h1{
+    color: #fff3f1;
+    padding-top: 30px;
+}
+
+.nav-main ul{
+    display: flex;
+    padding: 30px;
+}
+
+.nav-main ul li{
+    padding: 10px;
+}
+
+a{
+    color: #fff3f1;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
